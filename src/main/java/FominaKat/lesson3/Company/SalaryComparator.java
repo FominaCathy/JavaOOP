@@ -1,4 +1,4 @@
-package FominaKat.lesson3.Сompany;
+package FominaKat.lesson3.Company;
 
 import java.util.Comparator;
 
