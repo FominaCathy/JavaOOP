@@ -1,7 +1,7 @@
-package FominaKat.lesson1.sample;
+package FominaKat.VendingMachine.sample;
 
 
-import FominaKat.lesson1.Product;
+import FominaKat.VendingMachine.Product;
 
 public class Program {
 

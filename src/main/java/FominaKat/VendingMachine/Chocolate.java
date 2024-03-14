@@ -1,4 +1,4 @@
-package FominaKat.lesson1;
+package FominaKat.VendingMachine;
 
 
 public class Chocolate extends Product {
