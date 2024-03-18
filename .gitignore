@@ -12,5 +12,5 @@ target/
 *.iml
 *.ipr
 
-src/main/java/FominaKat/lesson2
-
+src/main/java/FominaKat/lesson3
+src/main/java/FominaKat/lesson4

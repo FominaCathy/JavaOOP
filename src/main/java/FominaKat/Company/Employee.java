@@ -1,4 +1,4 @@
-package FominaKat.lesson3.Company;
+package FominaKat.Company;
 
 import java.time.LocalDate;
 
